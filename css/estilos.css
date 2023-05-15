@@ -65,7 +65,7 @@ header{
 /*BANNER*/
 #banner{
     padding: 0 50px;
-    background: linear-gradient(25deg, rgba(0, 23, 93, 0.463) 0%, rgba(0, 166, 255, 0.463) 38%, rgba(0, 0, 0, 0.645) 56.99999999999999%, rgba(120, 165, 225, 0.319) 91%, rgba(0, 157, 241, 0.542) 93%, rgba(0,105,225,1) 100%), url(../img/banner.jpg);
+    background: linear-gradient(25deg, rgba(0, 23, 93, 0.463) 0%, rgba(0, 166, 255, 0.463) 38%, rgba(0, 0, 0, 0.645) 56.99999999999999%, rgba(120, 165, 225, 0.319) 91%, rgba(0, 157, 241, 0.542) 93%, rgba(0,105,225,1) 100%), url(../img/banner.png);
     height: 100vh;
     background-size:cover;
     background-repeat: no-repeat;
